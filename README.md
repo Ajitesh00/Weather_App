@@ -2,7 +2,7 @@
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/2c4fc70a-9633-485e-a3d6-aef57359b81a">
 
-Hosted link: https://santosh-2003-sahoo.github.io/App2-Weather-app/
+Hosted link: https://github.com/Ajitesh00/Weather_App
 
 
 ## Overview
@@ -60,4 +60,4 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
 
 You can add and run tests to ensure everything is working correctly.
 ```
-created bt: santosh sahoo
+created by: Ajitesh Madhu
